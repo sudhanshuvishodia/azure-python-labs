@@ -6,7 +6,7 @@ Azure Database for PostgreSQL is a managed service that you use to run, manage, 
 
 If you are **not** at an event, please see [REQUIREMENTS](REQUIREMENTS.md) to install the prerequisites for this lab.
 
-## Create and distribute tables
+## Create and distribute all tables
 
 Once connected to the Hyperscale coordinator node using psql, you can complete some basic tasks.
 
